@@ -1,0 +1,62 @@
+_repo: The-Problems-of-Philosophy_5827
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Russell, Bertrand
+    aliases:
+    - Russell, Bertrand Russell, 3d Earl
+    - Russell, Bertrand A. W. (Bertrand Arthur William)
+    birthdate: 1872
+    deathdate: 1970
+    gutenberg_agent_id: '355'
+    url: http://www.gutenberg.org/2009/agents/355
+    wikipedia: http://en.wikipedia.org/wiki/Bertrand_Russell
+description: "The Problems of Philosophy (1912) is one of Bertrand Russell's attempts\
+  \ to create a brief and accessible guide to the problems of philosophy. Focusing\
+  \ on problems he believes will provoke positive and constructive discussion, Russell\
+  \ concentrates on knowledge rather than metaphysics: If it is uncertain that external\
+  \ objects exist, how can we then have knowledge of them but by probability. There\
+  \ is no reason to doubt the existence of external objects simply because of sense\
+  \ data.\nRussell guides the reader through his famous 1910 distinction between \"\
+  knowledge by acquaintance and knowledge by description\" and introduces important\
+  \ theories of Plato, Aristotle, René Descartes, David Hume, John Locke, Immanuel\
+  \ Kant, G. W. F. Hegel and others to lay the foundation for philosophical inquiry\
+  \ by general readers and scholars alike.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5827'
+  wikidata: Q3393210
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Metaphysics'
+- !lcsh 'Knowledge, Theory of'
+- !lcsh 'Philosophy -- Introductions'
+- !lcc 'B'
+- GITenberg
+tableOfContents: Appearance and reality -- The existence of matter -- The nature of
+  matter -- Idealism -- Knowledge by acquaintance and knowledge by description --
+  On induction -- On our knowledge of general principles -- How a priori knowledge
+  is possible -- The world of universals -- On our knowledge of universals -- On intuitive
+  knowledge -- Truth and falsehood -- Knowledge, error, and probable opinion -- The
+  limits of philosophical knowledge -- The value of philosophy -- Bibliographical
+  note.
+title: The Problems of Philosophy
+url: http://www.gutenberg.org/ebooks/5827
+wikipedia:
+- https://fi.wikipedia.org/wiki/Filosofian_ongelmat
+- https://fr.wikipedia.org/wiki/Probl%C3%A8mes_de_philosophie
+- https://en.wikiquote.org/wiki/The_Problems_of_Philosophy
+- https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%A7%D8%A6%D9%84_%D9%81%D9%84%D8%B3%D9%81%D9%87
+- https://en.wikisource.org/wiki/The_Problems_of_Philosophy
+- https://es.wikipedia.org/wiki/Los_problemas_de_la_filosof%C3%ADa
+- https://cy.wikipedia.org/wiki/The_Problems_of_Philosophy
+- https://en.wikipedia.org/wiki/The_Problems_of_Philosophy
+- https://ms.wikipedia.org/wiki/Masalah_Falsafah_(karya)
+- https://is.wikipedia.org/wiki/The_Problems_of_Philosophy
+- https://mk.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D1%84%D0%B8%D0%BB%D0%BE%D0%B7%D0%BE%D1%84%D0%B8%D1%98%D0%B0%D1%82%D0%B0
+- https://fr.wikisource.org/wiki/Les_Probl%C3%A8mes_de_la_philosophie
