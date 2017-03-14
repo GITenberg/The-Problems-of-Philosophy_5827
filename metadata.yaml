@@ -1,5 +1,8 @@
 _repo: The-Problems-of-Philosophy_5827
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Russell, Bertrand
@@ -22,6 +25,8 @@ description: "The Problems of Philosophy (1912) is one of Bertrand Russell's att
   \ theories of Plato, Aristotle, René Descartes, David Hume, John Locke, Immanuel\
   \ Kant, G. W. F. Hegel and others to lay the foundation for philosophical inquiry\
   \ by general readers and scholars alike.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5827#The-Problems-of-Philosophy
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
